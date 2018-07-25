@@ -29,7 +29,7 @@ module.exports = app => {
     await checkLists(context);
   });
 
-  app.on(["issue_comment.edited"], async context => {
+  app.on(["issue_comment.edited", "issue_comment.created"], async context => {
     const { issue: { number } = {}, repository = {} } = context.payload;
     const {
       owner: { login: owner },

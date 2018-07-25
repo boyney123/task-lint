@@ -1,0 +1,21 @@
+{
+  "action": "created",
+  "head": {
+    "sha": "randomSha"
+  },
+  "issue": {
+    "number": 19,
+    "title": "New Issue",
+    "user": {
+      "login": "boyney123"
+    },
+    "labels": [],
+    "state": "open"
+  },
+  "repository": {
+    "owner": {
+      "login": "boyney123"
+    },
+    "name": "test"
+  }
+}
