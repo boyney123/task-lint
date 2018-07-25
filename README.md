@@ -13,7 +13,8 @@
 
 Just install and use.
 
-![image](https://user-images.githubusercontent.com/3268013/43205755-fc9f2cd8-901b-11e8-8174-d3d9e5fd338f.png)
+![image](https://user-images.githubusercontent.com/3268013/43205838-29e03ee4-901c-11e8-960f-4613bc3d9d4b.png)
+
 
 
 Task-lint will check your comments in your pull requests and will go read if any of them have tasks outstanding.
